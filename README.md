@@ -1,1 +1,1 @@
-<h1>Ended as Education project</h1>
+<h1>Ended as Educational project</h1>
